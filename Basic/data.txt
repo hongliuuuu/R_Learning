@@ -1,0 +1,34 @@
+R can read plain text files in various formats (e.g. tab delimited, space delimited, comma delimited) and most spreadsheets can save data in these ways. The most useful is comma delimited (.CSV), which R can handle quite easily.
+
+Read .csv data: 
+To get a file into R with basic columns of data and their labels use:
+variable = read.csv(file.choose(), header=T)
+
+To get a file into R with column headings and row headings use:
+variable = read.csv(file.choose(), row.names=1)
+
+e.g. mydata=read.csv(file.choose())
+To visualize data: mydata
+To visualize certain data: mydata$Title
+
+To remove a variable you can type a simple command:
+> rm(variable)
+
+We can switch around a data frame using the transpose command t(). To do that we merely type t(dataname) 
+stack(data) create data with 2 cols
+stack(data, select= c(var1, var2))
+
+The basic arithmetic mean	mean(variable)
+The median (middle value)	median(variable)
+The largest value in the variable	max(variable)
+The smallest value in the variable	min(variable)
+The standard deviation of the variable	sd(variable)
+The number of items in the variable	length(variable)
+The variance is given by this	var(variable)
+You can determine any quantile using this function. Set the level to any value e.g. 0.25, 0.75 to return the appropriate quantile	quantile(variable, level)
+
+If your data set is made up of several columns they may not all be of the same length. By default R pads out the 'missing' cells with NA. If your variable contains NA values then this will affect your calculations. To get around this use na.rm= TRUE in the command e.g. mean(variable, na.rm= TRUE)
+
+T-test
+
+The t-test is used to determine statistical differences between two samples. 

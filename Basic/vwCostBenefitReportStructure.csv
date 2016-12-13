@@ -1,0 +1,117 @@
+Language,SectionHeadingDescription,CategoryDescription,CategoryCode,CategorySortOrder,SectionHeadingSortOrder
+English,Cost,"Monthly premium, deductible, and limits on how much you pay for covered services",1,9,2
+English,Important Information,"Monthly premium, deductible, and limits on how much you pay for covered services",1,17,5
+Spanish,Costo,"Prima mensual, deducible y límites a la cantidad que usted paga por los servicios cubiertos",1,9,2
+Spanish,Información Importante,"Prima mensual, deducible y límites a la cantidad que usted paga por los servicios cubiertos",1,17,5
+English,Doctor and Hospital Choice,Acupuncture,2,12,3
+English,Outpatient Care and Services,Acupuncture,2,18,6
+Spanish,Selección de Médico y Hospital,La Acupuntura,2,12,3
+Spanish,Servicios para pacientes ambulatorios,La Acupuntura,2,18,6
+English,Outpatient Care and Services,Additional home care services,3,26,6
+English,Inpatient Care,Additional home care services,3,26,106
+Spanish,Servicios para pacientes ambulatorios,Servicios adicionales de cuidado en el hogar,3,26,6
+Spanish,Cuidado interno,Servicios adicionales de cuidado en el hogar,3,26,106
+English,Outpatient Care and Services,Additional services,4,27,6
+Spanish,Servicios para pacientes ambulatorios,Servicios adicionales,4,27,6
+English,Outpatient Care and Services,Ambulance,5,28,6
+Spanish,Servicios para pacientes ambulatorios,Ambulancia,5,28,6
+English,Outpatient Care and Services,Chiropractic care,6,29,6
+Spanish,Servicios para pacientes ambulatorios,Cuidado quiropráctico,6,29,6
+English,Outpatient Care and Services,Dental services,7,30,6
+Spanish,Servicios para pacientes ambulatorios,Servicios dental ,7,30,6
+English,Outpatient Care and Services,Diabetes supplies and services,8,33,6
+English,Outpatient Care,Diabetes supplies and services,8,33,107
+Spanish,Servicios para pacientes ambulatorios,Suministros y servicios para la diabetes,8,33,6
+Spanish,Cuidado para Paciente Ambulatorio,Suministros y servicios para la diabetes,8,33,107
+English,Outpatient Care and Services,"Diagnostic tests, lab and radiology services, and x-rays (Costs for these services may be different if received in an outpatient surgery setting)",9,34,6
+Spanish,Servicios para pacientes ambulatorios,"Pruebas de Diagnóstico, Servicios de Radiología y Laboratorio y Rayos X (Los costos de estos servicios pueden ser diferentes si se reciben en un centro de cirugía ambulatoria)",9,34,6
+English,Outpatient Care and Services,Doctor's office visits,10,35,6
+Spanish,Servicios para pacientes ambulatorios,Visitas al consultorio del médico,10,35,6
+English,Outpatient Care and Services,"Durable medical equipment (wheelchairs, oxygen, etc.)",11,36,6
+Spanish,Servicios para pacientes ambulatorios,"Equipo médico duradero (sillas de ruedas, oxígeno, etc.)",11,36,6
+English,Outpatient Care and Services,Emergency care,12,37,6
+Spanish,Servicios para pacientes ambulatorios,Atención de emergencia,12,37,6
+English,Outpatient Care and Services,Foot care (podiatry services),13,38,6
+English,Outpatient Care,Foot care (podiatry services),13,38,107
+Spanish,Servicios para pacientes ambulatorios,Cuidado de los pies (servicios de podología),13,38,6
+Spanish,Cuidado para Paciente Ambulatorio,Cuidado de los pies (servicios de podología),13,38,107
+English,Outpatient Care and Services,Hearing services,14,39,6
+English,Outpatient Care,Hearing services,14,39,107
+Spanish,Servicios para pacientes ambulatorios,Servicios de audición,14,39,6
+Spanish,Cuidado para Paciente Ambulatorio,Servicios de audición,14,39,107
+English,Outpatient Care and Services,Home health care,15,40,6
+Spanish,Servicios para pacientes ambulatorios,Cuidado de la salud,15,40,6
+English,Outpatient Care and Services,Mental health care,16,41,6
+Spanish,Servicios para pacientes ambulatorios,Cuidado de la salud mental,16,41,6
+English,Outpatient Care and Services,Outpatient rehabilitation,17,42,6
+Spanish,Servicios para pacientes ambulatorios,Rehabilitación ambulatoria,17,42,6
+English,Outpatient Care and Services,Outpatient substance abuse,18,43,6
+English,Outpatient Medical Services and Supplies,Outpatient substance abuse,18,43,108
+Spanish,Servicios para pacientes ambulatorios,Ambulatorio de abuso de sustancias,18,43,6
+Spanish,Servicios Médicos para pacientes ambulatorios y suministros,Ambulatorio de abuso de sustancias,18,43,108
+English,Outpatient Care and Services,Outpatient surgery,19,44,6
+Spanish,Servicios para pacientes ambulatorios,Cirugía ambulatoria,19,44,6
+English,Outpatient Care and Services,Over-the-counter items,20,45,6
+Spanish,Servicios para pacientes ambulatorios,Artículos de venta libre,20,45,6
+English,Outpatient Care and Services,"Prosthetic devices (braces, artificial limbs, etc.)",21,46,6
+English,Outpatient Medical Services and Supplies,"Prosthetic devices (braces, artificial limbs, etc.)",21,46,108
+Spanish,Servicios para pacientes ambulatorios,"Aparatos protésico (aparato ortopédico, miembros artificiales, etc.)",21,46,6
+Spanish,Servicios Médicos para pacientes ambulatorios y suministros,"Aparatos protésico (aparato ortopédico, miembros artificiales, etc.)",21,46,108
+English,Outpatient Care and Services,Renal dialysis,22,48,6
+Spanish,Servicios para pacientes ambulatorios,Diálisis rena,22,48,6
+English,Outpatient Care and Services,Transportation,23,49,6
+Spanish,Servicios para pacientes ambulatorios,Transportación,23,49,6
+English,Outpatient Care and Services,Urgently needed services,24,50,6
+Spanish,Servicios para pacientes ambulatorios,Atención urgente,24,50,6
+English,Outpatient Care and Services,Vision services,25,51,6
+Spanish,Servicios para pacientes ambulatorios,Servicios de la vista,25,51,6
+English,Preventive Care,Preventive care,26,52,9
+Spanish,Cuidado Preventivo,Cuidado preventivo,26,52,9
+English,Hospice,Hospice,27,53,7
+Spanish,Hospicio,Hospicio,27,53,7
+English,Inpatient Care,Inpatient hospital care,28,54,10
+Spanish,Cuidado interno,Atención para pacientes hospitalizados,28,54,10
+English,Extra Benefits,Inpatient mental health care,29,13,4
+English,Inpatient Care,Inpatient mental health care,29,55,10
+English,Additional Benefits,Inpatient mental health care,29,54,110
+Spanish,Beneficios Adicionales,Cuidado de hospitalización de salud mental,29,13,4
+Spanish,Cuidado interno,Cuidado de hospitalización de salud mental,29,55,10
+Spanish,Beneficios Adicionales,Cuidado de hospitalización de salud mental,29,54,110
+English,Extra Benefits,Institutional care,30,16,4
+English,Inpatient Care,Institutional care,30,56,10
+English,Additional Benefits,Institutional care,30,55,110
+Spanish,Beneficios Adicionales,Atención institucional,30,16,4
+Spanish,Cuidado interno,Atención institucional,30,56,10
+Spanish,Beneficios Adicionales,Atención institucional,30,55,110
+English,Inpatient Care,Skilled Nursing Facility (SNF),31,57,10
+Spanish,Cuidado interno,Centro de enfermería especializada (SNF),31,57,10
+English,Extra Benefits,Outpatient prescription drugs,32,15,4
+English,Inpatient Care,Outpatient prescription drugs,32,58,10
+Spanish,Beneficios Adicionales,Medicamentos recetados,32,15,4
+Spanish,Cuidado interno,Medicamentos recetados,32,58,10
+English,General Plan Information,Plan service area,201,1,1
+Spanish,Información General Sobre los Planes,Area de servicio del plan,201,1,1
+English,General Plan Information,Web site address,203,9,1
+Spanish,Información General Sobre los Planes,Dirección en la internet,203,9,1
+English,General Plan Information,Plan type,204,2,1
+Spanish,Información General Sobre los Planes,Tipo de plan,204,2,1
+English,General Plan Information,Tax status,206,4,1
+Spanish,Información General Sobre los Planes,Con condición de impuestos,206,4,1
+English,General Plan Information,Federal approval status,207,3,1
+Spanish,Información General Sobre los Planes,Con condición a aprobación federal,207,3,1
+English,General Plan Information,Important notes,208,13,1
+Spanish,Información General Sobre los Planes,Notas importantes,208,13,1
+English,General Plan Information,Plan contact,209,5,1
+Spanish,Información General Sobre los Planes,Contacto del plan,209,5,1
+English,General Plan Information,Part D contact,210,8,1
+Spanish,Información General Sobre los Planes,Contacto parte D,210,8,1
+English,General Plan Information,Monthly average out-of-pocket vost (for a person of your age and health),211,14,1
+Spanish,Información General Sobre los Planes,Gastos promedio mensual directo de su bolsillo para una persona de su edad y condición de salud,211,14,1
+English,General Plan Information,Physician network information,212,11,1
+Spanish,Información General Sobre los Planes,Información sobre red de médicos,212,11,1
+English,General Plan Information,Formulary web site address,215,10,1
+Spanish,Información General Sobre los Planes,Direcciones de sitios web del formulario,215,10,1
+English,General Plan Information,Number of Pharmacies in Your Area,216,12,1
+Spanish,Información General Sobre los Planes,Número de farmacias en su área,216,12,1
+English,General Plan Information,Join this plan,217,15,1
+Spanish,Información General Sobre los Planes,Inscribirse a este plan,217,15,1
